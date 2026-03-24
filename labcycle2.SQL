@@ -8,7 +8,6 @@ mysql> create table regions(
     -> region_id int primary key
     -> ,region_name varchar(50) not null);
 Query OK, 0 rows affected (0.02 sec)
-
 mysql> create table countries(
     -> country_id varchar(5) primary key,
     -> country_name varchar(50) not null ,
