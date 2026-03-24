@@ -1,5 +1,4 @@
 DELIMITER //
-
 CREATE PROCEDURE calculate_bill()
 BEGIN
 
