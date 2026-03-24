@@ -1,5 +1,4 @@
 DELIMITER //
-
 CREATE PROCEDURE withdraw(IN p_acc_id INT, IN amt INT)
 BEGIN
     DECLARE bal INT;
