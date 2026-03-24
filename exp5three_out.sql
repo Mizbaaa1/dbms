@@ -1,6 +1,5 @@
 mysql> source /home/ubuntu/mysql_lab/exp5three_pro;
 Query OK, 0 rows affected (0.02 sec)
-
 mysql> SET @status = '';
 Query OK, 0 rows affected (0.00 sec)
 
