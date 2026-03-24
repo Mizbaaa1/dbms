@@ -1,6 +1,5 @@
 source /home/ubuntu/mysql_lab/exp5one;
 Query OK, 0 rows affected (0.00 sec)
-
 mysql> select * from account;
 +--------+---------+
 | acc_id | balance |
