@@ -5,7 +5,6 @@ Query OK, 0 rows affected (0.00 sec)
 
 mysql> CALL member_status(2, @status);
 Query OK, 1 row affected (0.00 sec)
-
 mysql> select @status;
 +----------+
 | @status  |
