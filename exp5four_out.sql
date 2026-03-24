@@ -1,7 +1,6 @@
 mysql> source /home/ubuntu/mysql_lab/exp5four_pro;
 Query OK, 0 rows affected (0.01 sec)
 
-
 mysql> select emo_count('rinshad');
 +----------------------+
 | emo_count('rinshad') |
