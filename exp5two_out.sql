@@ -1,6 +1,5 @@
 mysql> create table customer(customer_id int primary key,name varchar(50),city varchar(50),credits int);
 Query OK, 0 rows affected (0.03 sec)
-
 mysql> insert into customer values
     -> (1,'Rinshad','manjeri',3000),
     -> (2,'Mishal','valamur',6000),
