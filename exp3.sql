@@ -1,4 +1,4 @@
-#1
+
 INSERT INTO department (dept_no, dept_name) VALUES
      ('D01', 'Human Resources'),
      ('D02', 'Finance'),
