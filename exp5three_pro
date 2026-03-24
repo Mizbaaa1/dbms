@@ -1,5 +1,4 @@
 DELIMITER //
-
 CREATE PROCEDURE member_status(IN cid INT, OUT membership VARCHAR(20))
 BEGIN
    DECLARE cred INT;
