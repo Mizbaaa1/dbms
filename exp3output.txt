@@ -11,7 +11,6 @@ INSERT INTO department (dept_no, dept_name) VALUES
     ->      ('D10', 'Training');
 Query OK, 10 rows affected (0.02 sec)
 Records: 10  Duplicates: 0  Warnings: 0
-
 mysql> INSERT INTO employee (emp_no, emp_name, mobile_no, salary, dept_no, designation) VALUES
     -> ('E001', 'Rinshad', 987650001, 30000, 'D01', 'Manager'),
     -> ('E002', 'Mishal',  987650002, 32000, 'D01', 'Assistant Manager'),
