@@ -1,7 +1,6 @@
 mysql> source /home/ubuntu/mysql_lab/exp5six_pro;
 Query OK, 0 rows affected (0.01 sec)
 
-
 mysql> select * from bill;
 +-------------+---------+-------------+-------------+------+--------+
 | customer_id | name    | pre_reading | cur_reading | unit | amount |
