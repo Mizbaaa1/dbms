@@ -6,7 +6,6 @@ mysql> insert into customer values
     -> (3,'Fidha','manarkad',800);
 Query OK, 3 rows affected (0.01 sec)
 Records: 3  Duplicates: 0  Warnings: 0
-
 mysql> source /home/ubuntu/mysql_lab/exp5two_pro;
 Query OK, 0 rows affected (0.01 sec)
 
