@@ -78,7 +78,6 @@ mysql> SELECT first_name,last_name FROM employees JOIN departments USING (dept_i
 | Aish       | Khan      |
 +------------+-----------+
 3 rows in set (0.00 sec)
-
 mysql> 
 mysql> SELECT first_name,last_name FROM employees JOIN departments USING (dept_id) WHERE location_id<>1700;
 +------------+-----------+
