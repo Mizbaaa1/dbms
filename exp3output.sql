@@ -17,7 +17,6 @@ You can turn off this feature to get a quicker startup with -A
 Database changed
 mysql> select * from department;
 Empty set (0.00 sec)
-
 mysql> INSERT INTO department (dept_no, dept_name) VALUES
     ->      ('D01', 'Human Resources'),
     ->      ('D02', 'Finance'),
